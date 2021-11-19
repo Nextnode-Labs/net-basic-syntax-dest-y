@@ -15,8 +15,8 @@ namespace EX1
             int length = Convert.ToInt32(Console.ReadLine()); ;
 
             Group myg = new Group(length);
-            int mygMaxAge = MaxAge(myg);
-            int mygMinAge = MinAge(myg);
+            int mygMaxAge = MaxAgeinGroup(myg);
+            int mygMinAge = MinAgeinGroup(myg);
 
             if (mygMaxAge > mygMinAge)
             {
@@ -28,7 +28,7 @@ namespace EX1
             }
         }
 
-        static int MaxAge(Group anyGroup)
+        static int MaxAgeinGroup(Group anyGroup)
         {
             int maxAge = anyGroup.arr[0].age;
             int i = 0;
@@ -45,7 +45,7 @@ namespace EX1
             }
             return max_i;
         }
-        static int MinAge(Group anyGroup)
+        static int MinAgeinGroup(Group anyGroup)
         {
             int minAge = anyGroup.arr[0].age;
             int i = 0;
