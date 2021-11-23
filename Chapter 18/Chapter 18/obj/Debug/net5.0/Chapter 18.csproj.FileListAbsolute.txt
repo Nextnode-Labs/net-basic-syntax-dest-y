@@ -1,0 +1,16 @@
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\Chapter 18.exe
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\Chapter 18.deps.json
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\Chapter 18.runtimeconfig.json
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\Chapter 18.runtimeconfig.dev.json
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\Chapter 18.dll
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\ref\Chapter 18.dll
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\bin\Debug\net5.0\Chapter 18.pdb
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.csproj.AssemblyReference.cache
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.AssemblyInfoInputs.cache
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.AssemblyInfo.cs
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.csproj.CoreCompileInputs.cache
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.dll
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\ref\Chapter 18.dll
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.pdb
+E:\Study\C#\Olsson C#8\18\Chapter 18\Chapter 18\obj\Debug\net5.0\Chapter 18.genruntimeconfig.cache
