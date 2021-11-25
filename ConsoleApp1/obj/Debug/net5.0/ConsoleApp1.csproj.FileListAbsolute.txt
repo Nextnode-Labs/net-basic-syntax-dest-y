@@ -1,0 +1,16 @@
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+E:\Study\C#\Olsson C#8\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+E:\Study\C#\Olsson C#8\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

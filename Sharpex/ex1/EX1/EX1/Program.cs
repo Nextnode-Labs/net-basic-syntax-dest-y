@@ -84,10 +84,10 @@ namespace EX1
             int personAge;
             string personName;
 
-            Console.WriteLine("Введите возраст");
+            Console.WriteLine($"Введите возраст {i + 1 } члена группы");
             personAge = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Введите имя");
+            Console.WriteLine($"Введите имя {i + 1 } члена группы");
             personName = Console.ReadLine();
 
             this.arr[i] = new person(personName, personAge);
