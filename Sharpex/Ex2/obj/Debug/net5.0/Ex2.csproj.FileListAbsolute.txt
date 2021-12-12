@@ -1,0 +1,16 @@
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\Ex2.exe
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\Ex2.deps.json
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\Ex2.runtimeconfig.json
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\Ex2.runtimeconfig.dev.json
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\Ex2.dll
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\ref\Ex2.dll
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\bin\Debug\net5.0\Ex2.pdb
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.csproj.AssemblyReference.cache
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.AssemblyInfoInputs.cache
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.AssemblyInfo.cs
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.csproj.CoreCompileInputs.cache
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.dll
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\ref\Ex2.dll
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.pdb
+E:\Study\C#\Olsson C#8\Sharpex\Ex2\obj\Debug\net5.0\Ex2.genruntimeconfig.cache
