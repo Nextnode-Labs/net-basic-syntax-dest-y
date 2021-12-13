@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\C#\\Olsson C#8\\Ex6\\Ex6.csproj",
+      "projectUniqueName": "E:\\Study\\C#\\Olsson C#8\\Sharpex\\Ex6\\Ex6.csproj",
       "projectName": "Ex6",
-      "projectPath": "E:\\Study\\C#\\Olsson C#8\\Ex6\\Ex6.csproj",
+      "projectPath": "E:\\Study\\C#\\Olsson C#8\\Sharpex\\Ex6\\Ex6.csproj",
       "packagesPath": "C:\\Users\\Tischenko\\.nuget\\packages\\",
-      "outputPath": "E:\\Study\\C#\\Olsson C#8\\Ex6\\obj\\",
+      "outputPath": "E:\\Study\\C#\\Olsson C#8\\Sharpex\\Ex6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
